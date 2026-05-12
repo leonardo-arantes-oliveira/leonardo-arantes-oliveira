@@ -11,6 +11,17 @@
 Atualmente no 3º semestre de Análise e Desenvolvimento de Sistemas, focado em construir soluções robustas e automações inteligentes. Sou movido por lógica, dados e a busca constante pela excelência técnica.
 
 ---
+### 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardo-arantes-oliveira&theme=tokyonight" alt="mystreak" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardo-arantes-oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-arantes-oliveira&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
 
 ### 🛠️ No meu arsenal de tecnologias:
 
