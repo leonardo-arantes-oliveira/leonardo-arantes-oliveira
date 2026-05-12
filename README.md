@@ -1,16 +1,44 @@
-## Hi there 👋
+# Olá, eu sou o Leonardo Arantes! 👋
 
-<!--
-**leonardo-arantes-oliveira/leonardo-arantes-oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Estudante de ADS | Aspirante a Engenheiro e ARQUITETO DE SOLUÇÕES
 
-Here are some ideas to get you started:
+Atualmente no 3º semestre de Análise e Desenvolvimento de Sistemas, focado em construir soluções robustas e automações inteligentes. Sou movido por lógica, dados e a busca constante pela excelência técnica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ No meu arsenal de tecnologias:
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| **Dados & BI** | ![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) |
+| **Web & Design** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
+| **Ferramentas** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+
+---
+
+### 📈 O que estou construindo?
+
+* **Automação de Workflows:** Motores de regras em Java (SOLID) para otimização de processos.
+* **Integrações RPA:** Scripts em Node.js para ETL e extração de métricas via APIs.
+* **Análise de Dados:** Dashboards estratégicos focados em performance operacional.
+
+---
+
+### 📊 Estatísticas e Conquistas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lxzzt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxzzt&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardoarantesdeoliveira)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/leonardoarantesdev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.ao4321@gmail.com)
+
+---
+> "A **Sorte** é a **soma** do **Preparo** com a **Oportunidade**."
