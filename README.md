@@ -42,16 +42,7 @@ Atualmente no 3º semestre de Análise e Desenvolvimento de Sistemas, focado em 
 
 ---
 
-### 📊 Estatísticas e Conquistas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lxzzt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxzzt&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
-
----
-
-### 📫 Vamos nos conectar?
+### 📫 Mais de mim?
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardoarantesdeoliveira)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/leonardoarantesdev)
