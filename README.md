@@ -34,11 +34,16 @@ Atualmente no 3º semestre de Análise e Desenvolvimento de Sistemas, focado em 
 
 ---
 
-### 📈 O que estou construindo?
-
-* **Automação de Workflows:** Motores de regras em Java (SOLID) para otimização de processos.
-* **Integrações RPA:** Scripts em Node.js para ETL e extração de métricas via APIs.
-* **Análise de Dados:** Dashboards estratégicos focados em performance operacional.
+### 📈 Engenharia de Software & Projetos Ativos
+### Projetos disponiveis na nossa organização --> <a>https://github.com/wizardry-code</>
+*   **Wizzardry Media Downloader (Extensão Web):** 
+    *   *Desafio:* Contornar restrições severas de CORS e alto custo de infraestrutura/proxies em servidores centralizados.
+    *   *Solução:* Arquitetura 100% *client-side* utilizando permissões especiais de escopo de rede do navegador, extração baseada em JavaScript e processamento de mídia local de alta performance com **FFmpeg.wasm**.
+*   **Plataforma Comercial (Setor Jurídico):** 
+    *   *Escopo:* Landing Page corporativa integrada a um motor de **Automação de Atendimento com IA**.
+    *   *Prática:* Engenharia de requisitos direta com o cliente, arquitetura de front-end performática, design responsivo e versionamento estruturado via Git.
+*   **Análise de Dados & Governança:** 
+    *   *Foco:* Modelagem dimensional básica, tratamento de dados com **Pandas** e criação de dashboards em **Power BI** voltados para o reconhecimento de padrões e métricas operacionais.
 
 ---
 
