@@ -29,7 +29,7 @@ Estudante do **4º semestre de Análise e Desenvolvimento de Sistemas (GRAN)**, 
 
 | Projeto | O que faz | Conhecimentos que desenvolvi |
 |---|---|---|
-| **Highlight da Quadra** *(MVP planejado)* | Botão no totem salva os últimos 30 s de uma câmera da quadra e entrega o clip por QR code, tudo em rede local | Streaming RTSP e FFmpeg (buffer circular, keyframes, `-c copy`) · redes locais (IP, DHCP, portas, firewall) · Docker com *hardening* (sem root, `read_only`, `cap_drop`) · segurança de aplicações (*path traversal*, injeção de comando, tokens aleatórios, DoS) · modelo de ameaças · ESP32 · LGPD e retenção de dados |
+| [wizardry-replay](https://github.com/leonardo-arantes-oliveira/wizardry-clips) | Botão no totem salva os últimos 30 s de uma câmera WI-FI da quadra e entrega o clip por QR code, tudo em rede local | Streaming RTSP e FFmpeg (buffer circular, keyframes, `-c copy`) · redes locais (IP, DHCP, portas, firewall) · Docker com *hardening* (sem root, `read_only`, `cap_drop`) · segurança de aplicações (*path traversal*, injeção de comando, tokens aleatórios, DoS) · modelo de ameaças · ESP32 · LGPD e retenção de dados |
 
 ### 🧩 Web e 🎨Front-End
 
@@ -41,7 +41,7 @@ Estudante do **4º semestre de Análise e Desenvolvimento de Sistemas (GRAN)**, 
 | **[Tech War](https://techcellphone-store.vercel.app)** *(comercial)* | Site de assistência técnica com contato direto por WhatsApp | Design focado em conversão · estrutura de seções · deploy na Vercel |
 | **[Mecânica de Luxo](https://mecanica-luxo.vercel.app)** *(comercial)* | Site para oficina e lavagem automotiva premium | Entrega para cliente real · identidade visual · deploy contínuo |
 
-> Cada projeto tem um repositório próprio com mais detalhes. O resumo geral está no [wizardry-replay](https://github.com/leonardo-arantes-oliveira/wizardry-replay).
+> Cada projeto Não Comercial tem um repositório próprio com mais detalhes.
 
 ---
 
