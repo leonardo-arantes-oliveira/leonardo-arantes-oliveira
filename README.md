@@ -40,6 +40,8 @@ Estudante do **4º semestre de Análise e Desenvolvimento de Sistemas (GRAN)**, 
 | **[Beyond the Spider-Verse GitHub](https://github.com/leonardo-arantes-oliveira/beyond-the-spiderverse-web)** · [Site Online](https://beyond-the-spiderverse-web.vercel.app) | Site conceitual inspirado em HQs, com transições e *split-text* | Animações avançadas · filtros e camadas em CSS · React + Vite |
 | **[Tech War](https://techcellphone-store.vercel.app)** *(comercial)* | Site de assistência técnica com contato direto por WhatsApp | Design focado em conversão · estrutura de seções · deploy na Vercel |
 | **[Mecânica de Luxo](https://mecanica-luxo.vercel.app)** *(comercial)* | Site para oficina e lavagem automotiva premium | Entrega para cliente real · identidade visual · deploy contínuo |
+| **[Ofício-Barbearia](https://oficio-barberaria.vercel.app/)** *(comercial)* | Site para uma barbearia premium com especialidade em visagismo | deploy contínuo |
+
 
 > Cada projeto Não Comercial tem um repositório próprio com mais detalhes.
 
